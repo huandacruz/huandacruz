@@ -1,0 +1,4 @@
+- 👋 ola meu nome é @huandacruz
+- 👀 meu email de contato é (huanda.cruz@escola.pr.gov.br)
+- 🌱 estou interessada em aprender a programar novas linguagens.
+- 💞️ eu estou aprendendo a programar resentemente a linguagem javaScript e Scratch.
